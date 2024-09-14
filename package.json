@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce_server",
+  "version": "1.0.0",
+  "description": "1º Pre entrega Backend 1 - Escotto Michael",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
