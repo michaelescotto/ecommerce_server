@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "1º Pre entrega Backend 1 - Escotto Michael",
   "main": "server.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "node ./server.js",
     "dev": "nodemon ./server.js"
